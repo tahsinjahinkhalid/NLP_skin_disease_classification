@@ -1,6 +1,6 @@
 # NLP Skin Disease Classification
 
-## By: [Tahsin Jahin Khalid](tahsinjahinkhalid.github.io)
+## By: [Tahsin Jahin Khalid](https://tahsinjahinkhalid.github.io/)
 
 ## About This Project
 
